@@ -160,7 +160,7 @@ public class AtmInterface
                     case 1:
                         if (b.login()) {
                             System.out.println("\n");
-                            System.out.println("**********WELCOME BACK**********\n");
+                            System.out.println("**********WELCOME**********\n");
                             boolean isFinished = false;
                             while (!isFinished) {
                                 System.out.print("\n");
